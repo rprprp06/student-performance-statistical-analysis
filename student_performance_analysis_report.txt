@@ -1,0 +1,9 @@
+STUDENT PERFORMANCE ANALYSIS REPORT
+========================================
+
+Average Final Grade (G3): 10.415189873417722
+Max G3: 20
+Min G3: 0
+
+Grade Distribution:
+Fail: 130
